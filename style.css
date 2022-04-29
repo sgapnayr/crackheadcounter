@@ -135,6 +135,10 @@ button:hover {
   .title-div {
     margin-bottom: -2rem;
   }
+  .body {
+    width: 65%;
+    height: 50vh;
+  }
 }
 
 .h1 {
